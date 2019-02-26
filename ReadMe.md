@@ -2,7 +2,7 @@
 
 - classes: Contains Relational Model
 - common: Contains help class resuse everwhere.
-- config: Contains configurarion file like database etc.
+- config: Contains configurarion file like mysql database engine etc.
 - database: Contains sql table and dumpy data sql in sample.
 - v1: stage api contains all resources provide to client side.
 
