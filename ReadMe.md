@@ -1,3 +1,14 @@
+# Basic Rest API
+
+- classes: Contains Relational Model
+- common: Contains help class resuse everwhere.
+- config: Contains configurarion file like database etc.
+- database: Contains sql table and dumpy data sql in sample.
+- v1: stage api contains all resources provide to client side.
+
+
+
+
 ## Get All Categories
 `GET root/v1/categories/read.php`
 
