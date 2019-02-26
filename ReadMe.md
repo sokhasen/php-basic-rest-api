@@ -7,6 +7,9 @@
 - v1: stage api contains all resources provide to client side.
 
 
+# Request Host Origin
+
+`http://localhost:your_port/php-basic-rest-api/v1/:resources/:action`
 
 
 ## Get All Categories
